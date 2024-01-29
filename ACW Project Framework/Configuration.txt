@@ -1,0 +1,50 @@
+CameraInitialPosition
+0.1 5.0 -100.0
+
+TerrainSize
+220 33 55
+
+TerrainInitialScale
+2 2 2
+
+RocketInitialPosition
+2.1 3.1 0.1
+
+RocketInitialRotation
+0.0 0.0 -0.78539816339
+
+RocketInitialScale
+1.0 1.0 1.0
+
+SunlightAmbientColor
+0.12 0.12 0.12 1.0
+
+SunlightDiffuseColor
+1.0 1.0 1.0 1.0
+
+SunlightSpecularColor
+1.0 1.0 1.0 1.0
+
+SunlightSpecularIntensity
+20.0
+
+MoonlightAmbientColor
+0.20 0.20 0.20 1.0
+
+MoonlightDiffuseColor
+0.95 0.95 0.95 1.0
+
+MoonlightSpecularColor
+0.6 0.6 0.6 1.0
+
+MoonlightSpecularIntensity
+60.0
+
+LaunchPadInitialScale
+11.0 11.0 11.0
+
+LaunchPadTessellationSettings
+6.0 24.0 8.0 1.0
+
+LaunchPadDisplacementSettings
+20.3 0.0 6.1 0.18
